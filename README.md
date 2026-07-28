@@ -79,5 +79,7 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
 <br> 
    <a href="https://github.com/Matt-1337"> Matt-1337 </a> as pony town's Postal dude<br>
 <br> 
+  <a href="https://github.com/1PWNn00bz"> 1PWNn00bz </a> as pony town's Infected (regretevator) <br>
+<br> 
 <br>
 </p>
