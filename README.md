@@ -5,6 +5,8 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
 <br>
 <a href="https://github.com/DEBTHVERIFIED"> DEBTHVERIFIED </a> as pony town's Mafioso<br>
   <br>
+  <a href="https://github.com/Gamblersi"> Gamblersi </a> as pony town's chance<br>
+  <br>
 <a href="https://github.com/eggcchan"> eggcchan </a> as pony town's eggchan<br>
  <br> 
 <a href="https://github.com/TheHacker7n7"> TheHacker7n7 </a> as Pony town's Azure Wrath<br>
