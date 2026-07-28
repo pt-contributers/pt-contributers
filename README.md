@@ -84,5 +84,7 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
   <a href="https://github.com/aesvic"> aesvic </a> as pony town's Verity<br>
 <br>
   <a href="https://github.com/sebvsene"> sebvsene </a> as pony town's Jason Todd<br>
+  <br>
+  <a href="https://github.com/2quet"> 2quet </a> as pony town's Noli<br>
 <br>
 </p>
