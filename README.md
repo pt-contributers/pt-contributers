@@ -82,6 +82,7 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
   <a href="https://github.com/1PWNn00bz"> 1PWNn00bz </a> as pony town's Infected (regretevator) <br>
 <br> 
   <a href="https://github.com/aesvic"> aesvic </a> as pony town's Verity<br>
-<br> 
+<br>
+  <a href="https://github.com/sebvsene"> sebvsene </a> as pony town's Jason Todd<br>
 <br>
 </p>
