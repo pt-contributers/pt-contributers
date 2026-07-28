@@ -7,7 +7,7 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
   <br>
 <a href="https://github.com/eggcchan"> eggcchan </a> as pony town's eggchan<br>
  <br> 
-<a href="https://github.com/TheHacker7n7"> TheHacker7n7 </a> as Pony town's 007n7<br>
+<a href="https://github.com/TheHacker7n7"> TheHacker7n7 </a> as Pony town's Azure Wrath<br>
 <br>
 <a href="https://github.com/electrifypink"> electrifypink </a> as pony town's Pursuer<br>
 <br>
