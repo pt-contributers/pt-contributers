@@ -65,8 +65,6 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
 <br> 
    <a href="https://github.com/sweeticake"> sweeticake </a> as pony town's shu<br>
 <br>
-  <a href="https://github.com/itrap-2245"> itrap-2245 </a> as pony town's Itrapped 
-<br>
   <a href="https://github.com/bannysuperman"> bannysuperman </a> as pony town's clark kent<br>
 <br>
   <a href="https://github.com/pawfectangel"> pawfectangel </a> as pony town's meroko yui<br>
