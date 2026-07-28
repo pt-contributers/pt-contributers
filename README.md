@@ -1,5 +1,5 @@
 <p align="center">
-starting from today— pt-contributers will be active and adding people!!<br>
+starting from today— pt-contributers will be active and adding people!! (owner <a href="https://github.com/AngeIogist"> AngeIogist) </a> <br>
 <br>
 this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> and <a href="https://github.com/title-town">title-town</a><br>
 <br>
