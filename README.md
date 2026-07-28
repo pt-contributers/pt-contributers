@@ -81,5 +81,7 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
 <br> 
   <a href="https://github.com/1PWNn00bz"> 1PWNn00bz </a> as pony town's Infected (regretevator) <br>
 <br> 
+  <a href="https://github.com/aesvic"> aesvic </a> as pony town's Verity<br>
+<br> 
 <br>
 </p>
