@@ -16,5 +16,6 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
 <a href="https://github.com/siriuzs"> siriuzs </a> as pony town's fluttershy<br>
 <br>
 <a href="https://github.com/AcxerSonnellino"> AcxerSonnellino </a> as pony town's Guest1337<br>
+<a href="https://github.com/a-nachoes"> a-nachoes </a> as pony town's BadWare<br>
 <br>
 </p>
