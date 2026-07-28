@@ -29,5 +29,7 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
 <br>
 <a href="https://github.com/medkitpanties"> medkitpanties </a> as pony town's subspace tripmine <img width="32" height="20" alt="1000008510" src="https://github.com/user-attachments/assets/9d201b7f-ac7c-48d3-bf96-77ac256eaa0c" />
 <br>
+<a href="https://github.com/parasolparadox"> parasolparadox </a> as pony town's among us rodamrix teal<br>
+<br>
 <br>
 </p>
