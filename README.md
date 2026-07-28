@@ -43,6 +43,10 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
 <br>
   <a href="https://github.com/sw33tsug4rcookie"> sw33tsug4rcookie </a> as pony town's ginger the cookie<br>
 <br>
+<a href="https://github.com/vibribbongaming"> vibribbongaming </a> as pony town's vibri<br>
+<br>
+  <a href="https://github.com/ppawncakezz"> ppawncakezz </a> as pony town's marshmallow bunny cookie <br>
+<br>
 <br>
 <br>
 </p>
