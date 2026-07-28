@@ -31,5 +31,7 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
 <br>
 <a href="https://github.com/parasolparadox"> parasolparadox </a> as pony town's among us rodamrix teal<br>
 <br>
+  <a href="https://github.com/martycorn"> martycorn </a> as pony town's vampire cookie<br>
+<br>
 <br>
 </p>
