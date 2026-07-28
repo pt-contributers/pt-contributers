@@ -67,5 +67,17 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
 <br>
   <a href="https://github.com/itrap-2245"> itrap-2245 </a> as pony town's Itrapped 
 <br>
+  <a href="https://github.com/bannysuperman"> bannysuperman </a> as pony town's clark kent<br>
+<br>
+  <a href="https://github.com/pawfectangel"> pawfectangel </a> as pony town's meroko yui<br>
+<br>
+  <a href="https://github.com/demonbell3"> demonbell3 </a> as pony town's Charlie Morningstar<br>
+<br>
+  <a href="https://github.com/andreslopper"> andreslopper </a> as pony town's kasane teto<br>
+<br>
+  <a href="https://github.com/sykoyo"> sykoyo </a> as pony town's Maria Robotnik<br>
+<br> 
+   <a href="https://github.com/Matt-1337"> Matt-1337 </a> as pony town's Postal dude<br>
+<br> 
 <br>
 </p>
