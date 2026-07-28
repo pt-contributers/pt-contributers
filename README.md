@@ -22,4 +22,7 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
 <a href="https://github.com/a-nachoes"> a-nachoes </a> as pony town's BadWare<br>
 <br>
 <a href="https://github.com/Ilove-him"> Ilove-him </a> as pony town's Wifies<br>
+<br>
+<a href="https://github.com/undyingregret"> undyingregret </a> as pony town's two time<br>
+<br>
 </p>
