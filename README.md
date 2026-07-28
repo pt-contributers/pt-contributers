@@ -35,6 +35,10 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
 <br>
   <a href="https://github.com/btr1ce"> btr1ce </a> as pony town's cuphead<br>
 <br>
+<a href="https://github.com/bassiebloomingtonofficial"> bassiebloomingtonofficial </a> as pony town's bassie<br>
+<br>
+  <a href="https://github.com/MrsCarolynne"> MrsCarolynne </a> as pony town's bobette<br>
+<br>
 <br>
 <br>
 </p>
