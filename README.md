@@ -5,6 +5,9 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
 <br>
   owner <a href="https://github.com/AngeIogist"> AngeIogist </a> as pony town's 1x1x1x1<br>
   <br>
+  <a href="https://github.com/zomsua"> zomsua </a> as pony town's Planetlord<br>
+  <br>
+  <a href="https://github.com/beauty-clown"> beauty-clown </a> as pony town's Tricky<br>
 <a href="https://github.com/DEBTHVERIFIED"> DEBTHVERIFIED </a> as pony town's Mafioso<br>
   <br>
   <a href="https://github.com/Gamblersi"> Gamblersi </a> as pony town's chance<br>
