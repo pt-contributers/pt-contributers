@@ -25,7 +25,7 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
 <br>
 <a href="https://github.com/Ilove-him"> Ilove-him </a> as pony town's Wifies<br>
 <br>
-<a href="https://github.com/undyingregret"> undyingregret </a> as pony town's two time<br>
+<a href="https://github.com/undyingregret"> undyingregret </a> and <a href="https://github.com/twottimey"> twottimey </a> as pony town's two time<br>
 <br>
 <a href="https://github.com/ashfies"> ashfies </a> as pony town's azazel<br>
 <br>
@@ -50,6 +50,20 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
   <a href="https://github.com/ppawncakezz"> ppawncakezz </a> as pony town's marshmallow bunny cookie <br>
 <br>
 <a href="https://github.com/lovingl3tters"> lovingl3tters </a> as pony town's Caporegime<br>
+<br>
+  <a href="https://github.com/wireplayer"> wireplayer </a> as pony town's caretaker <br>
+<br>
+  <a href="https://github.com/777gamblr"> 777gamblr </a> as pony town's mafioso lover<br>
+<br>
+  <a href="https://github.com/futuristic-maniac"> futuristic-maniac </a> as pony town's ena shinonome<br>
+<br>
+  <a href="https://github.com/donniesgaptooth"> donniesgaptooth </a> as pony town's darth maul<br>
+<br>
+  <a href="https://github.com/joosbocks"> joosbocks </a> as pony town's among us green<br>
+<br>
+  <a href="https://github.com/Nullified-Conception"> Nullified-Conception </a> as pony town's banana pell (also aka Artful hater :( )<br>
+<br> 
+   <a href="https://github.com/sweeticake"> sweeticake </a> as pony town's shu<br>
 <br>
 <br>
 <br>
