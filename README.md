@@ -49,6 +49,8 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
 <br>
   <a href="https://github.com/ppawncakezz"> ppawncakezz </a> as pony town's marshmallow bunny cookie <br>
 <br>
+<a href="https://github.com/lovingl3tters"> lovingl3tters </a> as pony town's Caporegime<br>
+<br>
 <br>
 <br>
 </p>
