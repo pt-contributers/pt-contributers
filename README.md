@@ -11,7 +11,7 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
   <br>
 <a href="https://github.com/DEBTHVERIFIED"> DEBTHVERIFIED </a> as pony town's Mafioso<br>
   <br>
-  <a href="https://github.com/Gamblersi"> Gamblersi </a> <a href="https://github.com/ACE0FHEART5"> ACE0FHEART5 </a> as pony town's chance<br>
+  <a href="https://github.com/Gamblersi"> Gamblersi </a> and <a href="https://github.com/ACE0FHEART5"> ACE0FHEART5 </a> as pony town's chance<br>
   <br>
 <a href="https://github.com/eggcchan"> eggcchan </a> as pony town's eggchan<br>
  <br> 
