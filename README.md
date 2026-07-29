@@ -11,7 +11,7 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
   <br>
 <a href="https://github.com/DEBTHVERIFIED"> DEBTHVERIFIED </a> as pony town's Mafioso<br>
   <br>
-  <a href="https://github.com/Gamblersi"> Gamblersi </a> as pony town's chance<br>
+  <a href="https://github.com/Gamblersi"> Gamblersi </a> <a href="https://github.com/ACE0FHEART5"> ACE0FHEART5 </a> as pony town's chance<br>
   <br>
 <a href="https://github.com/eggcchan"> eggcchan </a> as pony town's eggchan<br>
  <br> 
@@ -39,7 +39,7 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
 <br>
   <a href="https://github.com/martycorn"> martycorn </a> as pony town's vampire cookie<br>
 <br>
-  <a href="https://github.com/btr1ce"> btr1ce </a> as pony town's cuphead<br>
+  <a href="https://github.com/sorbetflakes"> sorbetflakes </a> as pony town's cuphead<br>
 <br>
 <a href="https://github.com/bassiebloomingtonofficial"> bassiebloomingtonofficial </a> as pony town's bassie<br>
 <br>
@@ -87,6 +87,27 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
 <br>
   <a href="https://github.com/sebvsene"> sebvsene </a> as pony town's Jason Todd<br>
   <br>
-  <a href="https://github.com/2quet"> 2quet </a> as pony town's Noli<br>
+  <a href="https://github.com/2quet"> 2quet </a> <a href="https://github.com/artfufu"> artfufu </a> as pony town's Noli<br>
+<br>
+  .
+    <a href="https://github.com/mallowave"> mallowave </a> as pony town's jim from Jim's computer<br>
+<br>
+  <a href="https://github.com/arsenaIl"> arsenaIl </a> as pony town's Roy Harper<br>
+<br>
+  <a href="https://github.com/Knuckl3z"> Knuckl3z </a> as pony town's Shadow the Hedgehog<br>
+<br>
+  <a href="https://github.com/totaldramas"> totaldramas </a> as pony town's Noah (tdi)<br>
+<br>
+  <a href="https://github.com/bumblebeecher"> bumblebeecher </a> as pony town's Karen Beecher<br>
+<br>
+  <a href="https://github.com/2099s"> 2099s </a> as pony town's miguel o'hara<br>
+<br> 
+   <a href="https://github.com/Twixxel-Lessgo"> Twixxel-Lessgo </a> as pony town's twixxel<br>
+<br>
+  <a href="https://github.com/ManicCentipede"> ManicCentipede </a> as pony town's sua (alnst) <br>
+<br>
+  <a href="https://github.com/BBERDLY"> BBERDLY </a> as pony town's Berdly<br>
+<br>
+  <a href="https://github.com/stagedread"> stagedread </a> as pony town's Branzycraft<br>
 <br>
 </p>
