@@ -130,5 +130,32 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
 <br>
   <a href="https://github.com/01-800-PAPU"> 01-800-PAPU </a> as pony town's aldo_geo<br>
 <br> 
+  .
+  <a href="https://github.com/fourtysevenstreaks"> fourtysevenstreaks </a> as pony town's secret agent<br>
+<br>
+  <a href="https://github.com/coal-irl"> coal-irl </a> as pony town's coal the pet rock<br>
+<br>
+  <a href="https://github.com/killwaree"> killwaree </a> as pony town's doctor strange<br>
+  .
+  <br> 
+  <a href="https://github.com/gumbawll"> gumbawll </a> as pony town's mettaton<br>
+<br>
+  <a href="https://github.com/HalfBPrince"> HalfBPrince </a> as pony town's Severus Snape <br>
+  <br>
+  <a href="https://github.com/ravensev"> ravensev </a> as pony town's sunny from omori<br>
+<br>
+  .
+    <a href="https://github.com/Tillsguitar"> Tillsguitar </a> as pony town's biggest till fan<br>
+<br>
+  <a href="https://github.com/charliezahrlie"> charliezahrlie </a> as pony town's nagito komaeda<br>
+<br>
+  <a href="https://github.com/realdustsans"> realdustsans </a> as pony town's dust sans<br>
+<br>
+  <a href="https://github.com/kiwiconicc"> kiwiconicc </a> as pony town's saiki kusuo  (tdi)<br>
+<br>
+  <a href="https://github.com/0RGANCEST"> 0RGANCEST </a> as pony town's Medkit<br>
+<br>
+  <a href="https://github.com/Corintheuss"> Corintheuss </a> as pony town's Artful<br>
+<br> 
 <br>
 </p>
