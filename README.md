@@ -3,7 +3,7 @@
 <br>
 this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> and <a href="https://github.com/title-town">title-town</a><br>
 <br>
-  owner <a href="https://github.com/AngeIogist"> AngeIogist </a> as pony town's 1x1x1x1<br>
+  owner <a href="https://github.com/StaticAngels"> StaticAngels </a> as pony town's 1x1x1x1 AND pursuer<br>
   <br>
   <a href="https://github.com/zomsua"> zomsua </a> as pony town's Planetlord<br>
   <br>
