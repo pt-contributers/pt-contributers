@@ -4,7 +4,7 @@
 this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> and <a href="https://github.com/title-town">title-town</a><br>
 <br>
   ugliest ponies<br>
-  <a href="https://github.com/mirrorgem"> mirrorgem </a><br>
+  <a href="https://github.com/mirrorgem"> mirrorgem </a> . <a href="https://github.com/coypisopilled"> coypisopilled </a><br>
   reminder that this is a joke! you can still nominate anyone or yourself in the ugliest list<br>
   <br>
   owner <a href="https://github.com/StaticAngels"> StaticAngels </a> as pony town's 1x1x1x1 AND pursuer<br>
