@@ -7,7 +7,9 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
   <a href="https://github.com/mirrorgem"> mirrorgem </a> . <a href="https://github.com/coypisopilled"> coypisopilled </a><br>
   reminder that this is a joke! you can still nominate anyone or yourself in the ugliest list<br>
   <br>
-  owner <a href="https://github.com/StaticAngels"> StaticAngels </a> as pony town's 1x1x1x1 AND pursuer<br>
+  owner <a href="https://github.com/StaticAngels"> StaticAngels </a> as pony town's 1x1x1x1, Shedletsky AND pursuer (all can be still nominated)<br>
+  <br>
+  <a href="https://github.com/spokeizhere"> spokeizhere </a> as pony town's spokeishere, hi baby!!<br>
   <br>
   <a href="https://github.com/zomsua"> zomsua </a> as pony town's Planetlord<br>
   <br>
