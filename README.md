@@ -1,5 +1,5 @@
 <p align="center">
-30.07.26 slow updates! thank you for everyone who's supporing this^_^<br>
+05.08.26 sadly I need to stop this project or uhmm I need like someone to help me LOL uhm I have adhd and I can't really keep up with this, PLEASE dm t1xful on discord if you wanna help us keep this going,or I'll probably just let this rot😽😽 thank you for everyone who participated and who supported//targeted uhjm!!! take care everybody .<br>
 <br>
 this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> and <a href="https://github.com/title-town">title-town</a><br>
 <br>
@@ -149,25 +149,23 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
 <br>
   <a href="https://github.com/killwaree"> killwaree </a> as pony town's doctor strange<br>
   .
-  <br> 
-  <a href="https://github.com/gumbawll"> gumbawll </a> as pony town's mettaton<br>
+  <a href="https://github.com/IIhyperlaserII"> IIhyperlaserII </a> as pony town's hyperlaser<br>
 <br>
-  <a href="https://github.com/HalfBPrince"> HalfBPrince </a> as pony town's Severus Snape <br>
+  <a href="https://github.com/DELUXEB0MB"> DELUXEB0MB </a> as pony town's man from the shadow<br>
   <br>
-  <a href="https://github.com/ravensev"> ravensev </a> as pony town's sunny from omori<br>
+  <a href="https://github.com/Ten-Mou"> Ten-Mou </a> as pony town's awesomedroid<br>
 <br>
   .
-    <a href="https://github.com/Tillsguitar"> Tillsguitar </a> as pony town's biggest till fan<br>
+    <a href="https://github.com/sprinklesex"> sprinklesex </a> as pony town's fawn<br>
 <br>
-  <a href="https://github.com/charliezahrlie"> charliezahrlie </a> as pony town's nagito komaeda<br>
+  <a href="https://github.com/scrsonmythighs"> scrsonmythighs </a> as pony town's gojo satoru<br>
 <br>
-  <a href="https://github.com/realdustsans"> realdustsans </a> as pony town's dust sans<br>
+  <a href="https://github.com/Tillaholic"> Tillaholic </a> as pony town's ivan (alnst) <br>
 <br>
-  <a href="https://github.com/kiwiconicc"> kiwiconicc </a> as pony town's saiki kusuo  (tdi)<br>
+  <a href="https://github.com/freakedoutboy"> freakedoutboy </a> as pony town's 2012 Michelangelo  (tdi)<br>
 <br>
-  <a href="https://github.com/0RGANCEST"> 0RGANCEST </a> as pony town's Medkit<br>
+  <a href="https://github.com/fuminoomi"> fuminoomi </a> as pony town's Jinx (from arcane!!!) <br>
 <br>
-  <a href="https://github.com/Corintheuss"> Corintheuss </a> as pony town's Artful<br>
+  <a href="https://github.com/WhispedVanilla"> WhispedVanilla </a> as pony town's slingshot<br>
 <br> 
-<br>
 </p>
