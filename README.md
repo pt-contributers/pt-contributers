@@ -1,5 +1,5 @@
 <p align="center">
-05.08.26 sadly I need to stop this project or uhmm I need like someone to help me LOL uhm I have adhd and I can't really keep up with this, PLEASE dm t1xful on discord if you wanna help us keep this going,or I'll probably just let this rot😽😽 thank you for everyone who participated and who supported//targeted uhjm!!! take care everybody .<br>
+05.08.26 sadly I need to stop this project or uhmm I need like someone to help me LOL uhm I have adhd and I can't really keep up with this, PLEASE dm t1xful on discord if you wanna help us keep this going,or I'll probably just let this rot😽😽 thank you for everyone who participated and who supported//targeted uhjm!!! take care everybody.<br>
 <br>
 this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> and <a href="https://github.com/title-town">title-town</a><br>
 <br>
