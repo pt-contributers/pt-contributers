@@ -9,7 +9,7 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
   <br>
   ---<br>
   <br>
-  owner <a href="https://github.com/StaticAngels"> StaticAngels </a> as pony town's 1x1x1x1, Shedletsky AND pursuer (all can be still nominated)<br>
+  owner <a href="https://github.com/StaticAngels"> StaticAngels </a> as pony town's Artful fanboy <br>
   <br>
   <a href="https://github.com/spokeizhere"> spokeizhere </a> as pony town's spokeishere <br>
   <br>
