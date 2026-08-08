@@ -172,13 +172,13 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
 <br> 
   <a href="https://github.com/CosmoThePastryy"> CosmoThePastryy </a> as pony town's Cosmo the pastry<br>
   <br>
-  <a href="https://github.com/JAWS0DEATH"> JAWS0DEATH </a> as pony town's Batman Beyond/Terry McGinnis<br>
+  <a href="https://github.com/JAWS0DEATH"> JAWS0DEATH </a> as pony town's Batman Beyond<br>
 <br>
   <a href="https://github.com/sir-chloe"> sir-chloe </a> as pony town's Astro Novalite<br>
   <br>
   <a href="https://github.com/TwistedPastry"> TwistedPastry </a> as pony town's Cosmo<br>
   <br>
-  <a href="https://github.com/Chica-Azure"> Chica-Azure </a> as pony town's Azure(forsaken)/Banhammer(phighting)<br>
+  <a href="https://github.com/Chica-Azure"> Chica-Azure </a> as pony town's banhammer<br>
   <br>
   <a href="https://github.com/WoundedRibbons"> WoundedRibbons </a> as pony town's Kaveh(genshin)<br>
   <br>
@@ -194,7 +194,7 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
   <br>
   <a href="https://github.com/zandiik"> zandiik </a> as pony town's Dottore<br>
   <br>
-  <a href="https://github.com/fou11egacy"> fou11egacy </a> as pony town's Childe/Tartaglia<br>
+  <a href="https://github.com/fou11egacy"> fou11egacy </a> as pony town's Childe<br>
   <br>
   <a href="https://github.com/weltita"> weltita </a> as pony town's Shirahoshi<br>
   <br>
@@ -224,7 +224,7 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
   <br>
   <a href="https://github.com/lostcxuse"> lostcxuse </a> as pony town's Nezoshoki<br>
   <br>
-  <a href="https://github.com/Nadd-nadd"> Nadd-nadd </a> as pony town's Sigil(nullscape)/Katsuki<br>
+  <a href="https://github.com/Nadd-nadd"> Nadd-nadd </a> as pony town's Sigil(nullscape)<br>
   <br>
   <a href="https://github.com/FinnFxnn"> FinnFxnn </a> as pony town's Finn the fishbowl<br>
   <br>
