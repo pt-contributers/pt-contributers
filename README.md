@@ -15,8 +15,6 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
   <br>
   <a href="https://github.com/straxesoda"> straxesoda </a> as pony town's Nashatra<br>
   <br>
-  <a href="https://github.com/flaskofvodka"> flaskofvodka </a> as pony town's Tom(eddsworld)<br>
-  <br>
   ---<br>
   <br>
   <a href="https://github.com/zomsua"> zomsua </a> as pony town's Planetlord<br>
@@ -244,12 +242,5 @@ this account is inspired by <a href="https://github.com/pt-stars">pt-stars</a> a
   <br>
   <br>
   <a href="https://github.com/VArtfultrust"> VArtfultrust </a> as pony town's Eggchan<br>
-  
-  
-
-
-
-
-
-
-
+   <a href="https://github.com/flaskofvodka"> flaskofvodka </a> as pony town's Tom(eddsworld)<br>
+  <br>
